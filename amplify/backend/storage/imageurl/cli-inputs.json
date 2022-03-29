@@ -1,0 +1,14 @@
+{
+  "resourceName": "imageurl",
+  "policyUUID": "36e72836",
+  "bucketName": "customauth250f5e8d1ca740b9aed653982b4f27d6",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

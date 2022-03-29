@@ -1,0 +1,11 @@
+type Transaction @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  prodname: String
+  price: Float
+  qty: Int
+  totalprice: Float
+  sellername: String
+  sellercontacts: String
+  status: String
+  image: String
+} 
